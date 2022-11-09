@@ -82,3 +82,20 @@ border-bottom: 1px solid #3a3a3a;
     right: 150px;
     position: absolute;
 }
+#club-ethos {
+    height: 600px;
+}
+#left-about {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+}
+#right-about {
+    padding-top: 30px;
+    width: 33%;
+    float: right;
+}
+#center-about {
+    padding-top: 30px;
+    margin: 0 auto;
+}
