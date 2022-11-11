@@ -221,3 +221,11 @@ margin: 0 auto;
         display: none;
     }
 }
+@media screen and (max-width: 950px) {
+    #menu {
+        clear: left;
+        float: left;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
+}
